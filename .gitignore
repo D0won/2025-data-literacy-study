@@ -194,6 +194,10 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# file
+신체활동과 정신건강!!.ipynb
+2022_mental(re_수정3).ipynb
+
 # pytype static type analyzer
 .pytype/
 

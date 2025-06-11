@@ -195,8 +195,6 @@ dmypy.json
 .pyre/
 
 # file
-신체활동과 정신건강!!.ipynb
-2022_mental(re_수정3).ipynb
 
 # pytype static type analyzer
 .pytype/
@@ -222,3 +220,5 @@ poetry.toml
 pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,jupyternotebooks,python
+
+*.csv
